@@ -1,1 +1,1 @@
-# cs_q-a_forum
+# This is a forum for people to discuss problems related to CS.
